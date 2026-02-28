@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+scikit-learn
+seqeval
+transformers>=4.40.0
+datasets>=2.18.0
+torch
